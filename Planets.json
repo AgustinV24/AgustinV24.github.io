@@ -1,0 +1,90 @@
+[
+    {
+      "name": "Mercury",
+      "imageRef": "Mercury.jpg",
+      "mass": "3.3011 × 10^23 kg",
+      "diameter": "4,880 km",
+      "sunDistance": "57.9 million km",
+      "day": "58.6 earth days",
+      "year": "87.97 earth days",
+      "moons": "0 moons",
+      "gravityfactor": 0.38
+    },
+    {
+      "name": "Venus",
+      "imageRef": "Venus.jpg",
+      "mass": "4.8675 × 10^24 kg",
+      "diameter": "12,104 km",
+      "sunDistance": "108.2 million km",
+      "day": "243 earth days",
+      "year": "224.7 earth days",
+      "moons": "0 moons",
+      "gravityfactor": 0.91
+    },
+    {
+      "name": "Earth",
+      "imageRef": "Earth.jpg",
+      "mass": "5.972 × 10^24 kg",
+      "diameter": "12,742 km",
+      "sunDistance": "149.6 million km",
+      "day": "23.93 hours",
+      "year": "365.25 days",
+      "moons": "1 moon",
+      "gravityfactor": 1
+    },
+    {
+      "name": "Mars",
+      "imageRef": "Mars.png",
+      "mass": "6.4171 × 10^23 kg",
+      "diameter": "6,779 km",
+      "sunDistance": "227.9 million km",
+      "day": "24.6 hours",
+      "year": "687 earth days",
+      "moons": "2 moons",
+      "gravityfactor": 0.38
+    },
+    {
+      "name": "Jupiter",
+      "imageRef": "Jupiter.jpg",
+      "mass": "1.898 × 10^27 kg",
+      "diameter": "139,820 km",
+      "sunDistance": "778.5 million km",
+      "day": "9.9 hours",
+      "year": "11.9 earth years",
+      "moons": "95 moons",
+      "gravityfactor": 2.53
+    },
+    {
+      "name": "Saturn",
+      "imageRef": "Saturn.jpg",
+      "mass": "5.683 × 10^26 kg",
+      "diameter": "116,460 km",
+      "sunDistance": "1.429 billion km",
+      "day": "10.7 hours",
+      "year": "29.5 earth years",
+      "moons": "146 moons",
+      "gravityfactor": 1.06
+    },
+    {
+      "name": "Uranus",
+      "imageRef": "Uranus.jpeg",
+      "mass": "8.681 × 10^25 kg",
+      "diameter": "50,724 km",
+      "sunDistance": "2.871 billion km",
+      "day": "17.2 hours",
+      "year": "84 earth years",
+      "moons": "28 moons",
+      "gravityfactor": 0.92
+    },
+    {
+      "name": "Neptune",
+      "imageRef": "Neptune.jpg",
+      "mass": "1.024 × 10^26 kg",
+      "diameter": "49,244 km",
+      "sunDistance": "4.498 billion km",
+      "day": "16.1 hours",
+      "year": "164.8 earth years",
+      "moons": "16 moons",
+      "gravityfactor": 1.19
+    }
+  ]

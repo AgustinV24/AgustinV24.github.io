@@ -1,0 +1,66 @@
+/* Estilo inicial de la imagen */
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url('Background.jpg'); /* Ruta de la imagen de fondo */
+    background-attachment: fixed;
+    background-size: cover; /* Escalar la imagen para cubrir toda la ventana del navegador */
+    background-position: center; /* Centrar la imagen de fondo */
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img{
+    border-radius: 30px;
+}
+h1 {
+    color: #c0bdbd;
+    font-size: 70px;
+    line-height: 10px;
+}
+h2 {
+    color: #c0bdbd;
+    font-size: 40px;
+}
+h3 {
+    color: #c0bdbd;
+    font-size: 25px;
+}
+form{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #d3d0d0;
+    font-size: 20px;
+}
+
+button{
+    color: #d3d0d0;
+    background-color: #4707dd;
+    font-size: 16px;
+    width: 150px;
+    height: 50px;
+
+}
+#Planets {
+    transition: transform 0.3s ease;
+}
+
+#DeleteButton{
+    position: fixed; /* Posición absoluta */
+    left: 20px; /* Espacio desde el borde izquierdo de la página */
+    bottom: 20px; 
+}
+
+.ampliada {
+    transform: scale(1.1);
+}
+.fondo-oscuro{
+	content:'';
+	position: absolute;
+        top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.6);
+}
